@@ -3,6 +3,7 @@
 
   <remote name="PixelOS"
           fetch="https://github.com/PixelOS-AOSP"
+          review="https://review.pixelos.net/"
           revision="sixteen" />
 
   <remote name="PixelOS-Gitlab"
